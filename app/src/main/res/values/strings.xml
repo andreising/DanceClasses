@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">DanceClasses</string>
+    <string name="onboard_1">Get ready to groove and move! Welcome to Dance Classes, your gateway to a world of rhythm, expression, and fun. Whether you\'re a seasoned dancer or a beginner taking your first steps on the dance floor, we\'ve got something exciting in store for you. Join us as we embark on a dance journey like no other.</string>
+    <string name="onboard_2">Discover a diverse range of dance styles that will ignite your passion for dance. From hip-hop to ballet, salsa to contemporary, our classes cover it all. Explore different cultures, techniques, and movements with our expert instructors. Find the style that resonates with your heart and soul.</string>
+    <string name="onboard_3">Our talented and passionate instructors are here to guide you every step of the way. Learn from industry professionals who bring their expertise and enthusiasm to each class. Get ready to be inspired, challenged, and encouraged to become the dancer you\'ve always dreamed of.</string>
+    <string name="home">Home</string>
+    <string name="calendar">Calendar</string>
+    <string name="details">Details</string>
+    <string name="classes_on">"Classes on "</string>
+    <string name="low_energy">Low Energy</string>
+    <string name="time">time</string>
+    <string name="start_the_dance">Start the dance!</string>
+    <string name="salsa">Salsa class</string>
+    <string name="salsa_title">Salsa is a lively and energetic Latin American dance originated in Cuba. It is a partner dance that involves close body contact and a lot of movement, making it both an impressive performance art and a fun social activity. Salsa combines the rhythms of merengue, Мамбо, and son, creating a unique and recognizable beat. The dance involves a series of steps, including arm movements, shuffling feet, and a synchronized body movement called the ‘lead and follow.’ Salsa music often has a fast tempo and can be played both live and recorded. It has become popular worldwide and is enjoyed by people of all ages and skill levels.</string>
+    <string name="tango">Tango Class</string>
+    <string name="rumba">Rumba Class</string>
+    <string name="bachata">Bachata</string>
+    <string name="zumba">Zumba</string>
+    <string name="hip_hop">Hip hop class</string>
+    <string name="tango_title">Tango is a sensual and passionate dance originating from Argentina. It is a slow-paced dance that requires intense physical contact between the partners. The dancers weave intricate steps on the floor, expressing emotions through their body language. Tango music is often mournful and evocative, set to a characteristic two-beat rhythm. The dance has gained worldwide popularity, and competitions are held at various levels of proficiency.</string>
+    <string name="rumba_title">Rumba is a popular Latin American dance characterized by its sensual and romantic nature. Originated in Cuba, this dance involves partners moving closely together, with slow and seductive steps. Rumba music is typically played at a slower tempo, with smooth and melodic vocals. This dance has become a favorite among dancers around the world due to its easy-to-learn moves and its ability to showcase passion and emotion between partners.</string>
+    <string name="bachata_title">bachata is a romantic and gentle latin american dance originating in the dominican republic. the dance is danced by a couple, the movements are smooth and slow, and the partners are pressed tightly together. bachata music typically has a moderate tempo and soft, melodic sound. the dance has gained in popularity all over the world for its simplicity and ability to convey emotions through movement.</string>
+    <string name="zumba_title">Zumba is a Latin-inspired dance fitness class that combines elements of salsa, merengue, and other rhythmic styles. The class is led by a Zumba instructor, who plays music and demonstrates the dances, which are then repeated by the participants. Zumba classes are popular for their energy, fun atmosphere, and effective way of burning calories.</string>
+    <string name="hip_hop_title">Hip Hop Dance is a street dance style that originated in the United States in the 1970s. It is characterized by fast-paced moves, aggressive styling, and unique hand gestures. Hip Hop dancers often use props such as skateboards, breakdance, and graffiti art to add to their performance. The music for Hip Hop dance is usually beats per minute (BPM) ranging from 90 to 120.</string>
+    <string name="next_classes">Next Classes</string>
+    <string name="next_classes_this_week">Next classes this week</string>
+    <string name="hours">Hours</string>
+    <string name="finish_the_dance">Finish the dance</string>
+    <string name="about">"About "</string>
+</resources>

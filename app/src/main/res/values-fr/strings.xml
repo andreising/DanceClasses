@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Cours de danse</string>
+    <string name="onboard_1"><![CDATA[Préparez-vous à groover et à bouger ! Bienvenue aux cours de danse, votre porte d\'entrée vers un monde de rythme, d\'expression et de plaisir. Que vous soyez un danseur chevronné ou un débutant faisant ses premiers pas sur la piste de danse, nous avons quelque chose d\'excitant à vous réserver. Rejoignez-nous alors que nous embarquons pour un voyage de danse pas comme les autres.]]></string>
+    <string name="onboard_2">Découvrez une gamme variée de styles de danse qui enflammeront votre passion pour la danse. Du hip-hop au ballet, de la salsa au contemporain, nos cours couvrent tout. Explorez différentes cultures, techniques et mouvements avec nos instructeurs experts. Trouvez le style qui résonne avec votre cœur et votre âme.</string>
+    <string name="onboard_3">Nos instructeurs talentueux et passionnés sont là pour vous guider à chaque étape du processus. Apprenez des professionnels de l’industrie qui apportent leur expertise et leur enthousiasme à chaque cours. Préparez-vous à être inspiré, mis au défi et encouragé à devenir le danseur dont vous avez toujours rêvé.</string>
+    <string name="home">Maison</string>
+    <string name="calendar">Calendrier</string>
+    <string name="details">Détails</string>
+    <string name="classes_on">\"Cours sur\"</string>
+    <string name="low_energy">Batterie faible</string>
+    <string name="time">temps</string>
+    <string name="start_the_dance"><![CDATA[Commencez la danse !]]></string>
+    <string name="salsa">Cours de salsa</string>
+    <string name="salsa_title">La salsa est une danse latino-américaine vive et énergique originaire de Cuba. Il s’agit d’une danse en couple qui implique un contact corporel étroit et beaucoup de mouvements, ce qui en fait à la fois un art de la performance impressionnant et une activité sociale amusante. La salsa combine les rythmes du merengue, du Мамбо et du son, créant un rythme unique et reconnaissable. La danse implique une série de pas, y compris des mouvements de bras, des mouvements de pieds et un mouvement corporel synchronisé appelé « diriger et suivre ». La musique salsa a souvent un tempo rapide et peut être jouée en direct ou enregistrée. Il est devenu populaire dans le monde entier et est apprécié par des personnes de tous âges et de tous niveaux.</string>
+    <string name="tango">Cours de Tango</string>
+    <string name="rumba">Cours de Rumba</string>
+    <string name="bachata">Bachata</string>
+    <string name="zumba">Zumba</string>
+    <string name="hip_hop">Cours de hip-hop</string>
+    <string name="tango_title">Le Tango est une danse sensuelle et passionnée originaire d\'Argentine. C\'est une danse au rythme lent qui nécessite un contact physique intense entre les partenaires. Les danseurs exécutent des pas complexes sur le sol, exprimant leurs émotions à travers leur langage corporel. La musique du tango est souvent triste et évocatrice, sur un rythme caractéristique à deux temps. La danse a gagné en popularité dans le monde entier et des compétitions sont organisées à différents niveaux de compétence.</string>
+    <string name="rumba_title">La Rumba est une danse populaire latino-américaine caractérisée par sa nature sensuelle et romantique. Originaire de Cuba, cette danse implique des partenaires se déplaçant en étroite collaboration, avec des pas lents et séduisants. La musique rumba est généralement jouée à un tempo plus lent, avec des voix douces et mélodiques. Cette danse est devenue une danse préférée des danseurs du monde entier en raison de ses mouvements faciles à apprendre et de sa capacité à mettre en valeur la passion et l\'émotion entre les partenaires.</string>
+    <string name="bachata_title">La bachata est une danse latino-américaine romantique et douce originaire de la république dominicaine. la danse est dansée par un couple, les mouvements sont fluides et lents et les partenaires sont étroitement serrés l\'un contre l\'autre. La musique de bachata a généralement un tempo modéré et un son doux et mélodique. cette danse a gagné en popularité dans le monde entier grâce à sa simplicité et sa capacité à transmettre des émotions par le mouvement.</string>
+    <string name="zumba_title">La Zumba est un cours de danse fitness d\'inspiration latine qui combine des éléments de salsa, de merengue et d\'autres styles rythmiques. Le cours est dirigé par un instructeur de Zumba, qui joue de la musique et montre les danses, qui sont ensuite répétées par les participants. Les cours de Zumba sont populaires pour leur énergie, leur atmosphère amusante et leur manière efficace de brûler des calories.</string>
+    <string name="hip_hop_title">Le Hip Hop Dance est un style de danse de rue né aux États-Unis dans les années 1970. Il se caractérise par des mouvements rapides, un style agressif et des gestes de main uniques. Les danseurs hip hop utilisent souvent des accessoires tels que des planches à roulettes, du breakdance et des graffitis pour ajouter à leur performance. La musique de la danse Hip Hop est généralement composée de battements par minute (BPM) allant de 90 à 120.</string>
+    <string name="next_classes">Prochains cours</string>
+    <string name="next_classes_this_week">Prochains cours cette semaine</string>
+    <string name="hours">Heures</string>
+    <string name="finish_the_dance">Terminez la danse</string>
+    <string name="about">\"À propos \"</string>
+</resources>

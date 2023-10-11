@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Tanzunterricht</string>
+    <string name="onboard_1">Machen Sie sich bereit zum Grooven und Bewegen! Willkommen bei Dance Classes, Ihrem Tor zu einer Welt voller Rhythmus, Ausdruck und Spaß. Egal, ob Sie ein erfahrener Tänzer sind oder ein Anfänger, der seine ersten Schritte auf der Tanzfläche macht, wir haben etwas Aufregendes für Sie auf Lager. Begleiten Sie uns auf einer unvergleichlichen Tanzreise.</string>
+    <string name="onboard_2">Entdecken Sie eine Vielfalt an Tanzstilen, die Ihre Leidenschaft für den Tanz entfachen. Von Hip-Hop bis Ballett, von Salsa bis hin zu zeitgenössischem Tanz – unsere Kurse decken alles ab. Entdecken Sie mit unseren erfahrenen Trainern verschiedene Kulturen, Techniken und Bewegungen. Finden Sie den Stil, der Ihr Herz und Ihre Seele berührt.</string>
+    <string name="onboard_3">Unsere talentierten und leidenschaftlichen Lehrer stehen Ihnen bei jedem Schritt zur Seite. Lernen Sie von Branchenprofis, die ihr Fachwissen und ihren Enthusiasmus in jeden Kurs einbringen. Lassen Sie sich inspirieren, herausfordern und ermutigen, der Tänzer zu werden, von dem Sie immer geträumt haben.</string>
+    <string name="home">Heim</string>
+    <string name="calendar">Kalender</string>
+    <string name="details">Einzelheiten</string>
+    <string name="classes_on">„Kurse am“</string>
+    <string name="low_energy">Wenig Energie</string>
+    <string name="time">Zeit</string>
+    <string name="start_the_dance">Beginnen Sie mit dem Tanz!</string>
+    <string name="salsa">Salsa-Kurs</string>
+    <string name="salsa_title">Salsa ist ein lebhafter und energiegeladener lateinamerikanischer Tanz, der seinen Ursprung in Kuba hat. Es handelt sich um einen Partnertanz, der engen Körperkontakt und viel Bewegung erfordert, was ihn sowohl zu einer beeindruckenden Performance-Kunst als auch zu einer unterhaltsamen sozialen Aktivität macht. Salsa kombiniert die Rhythmen von Merengue, Mambo und Son und schafft so einen einzigartigen und wiedererkennbaren Beat. Der Tanz besteht aus einer Reihe von Schritten, darunter Armbewegungen, schlurfenden Füßen und einer synchronisierten Körperbewegung namens „Lead and Follow“. Salsa-Musik hat oft ein schnelles Tempo und kann sowohl live gespielt als auch aufgenommen werden. Es erfreut sich weltweiter Beliebtheit und erfreut sich bei Menschen jeden Alters und Könnens.</string>
+    <string name="tango">Tango-Klasse</string>
+    <string name="rumba">Rumba-Kurs</string>
+    <string name="bachata">Bachata</string>
+    <string name="zumba">Zumba</string>
+    <string name="hip_hop">Hip-Hop-Kurs</string>
+    <string name="tango_title">Tango ist ein sinnlicher und leidenschaftlicher Tanz, der ursprünglich aus Argentinien stammt. Es handelt sich um einen langsamen Tanz, der intensiven Körperkontakt zwischen den Partnern erfordert. Die Tänzer weben komplizierte Schritte auf dem Boden und drücken Emotionen durch ihre Körpersprache aus. Tangomusik ist oft traurig und stimmungsvoll und in einem charakteristischen Zweitaktrhythmus gehalten. Der Tanz erfreut sich weltweiter Beliebtheit und es werden Wettbewerbe auf verschiedenen Leistungsniveaus abgehalten.</string>
+    <string name="rumba_title">Rumba ist ein beliebter lateinamerikanischer Tanz, der sich durch seinen sinnlichen und romantischen Charakter auszeichnet. Bei diesem aus Kuba stammenden Tanz bewegen sich die Partner mit langsamen und verführerischen Schritten eng zusammen. Rumba-Musik wird normalerweise in einem langsameren Tempo mit sanftem und melodischem Gesang gespielt. Aufgrund seiner leicht zu erlernenden Bewegungen und seiner Fähigkeit, Leidenschaft und Emotionen zwischen den Partnern zum Ausdruck zu bringen, ist dieser Tanz bei Tänzern auf der ganzen Welt zu einem Favoriten geworden.</string>
+    <string name="bachata_title">Bachata ist ein romantischer und sanfter lateinamerikanischer Tanz, der seinen Ursprung in der Dominikanischen Republik hat. Der Tanz wird von einem Paar getanzt, die Bewegungen sind sanft und langsam und die Partner sind eng aneinander gepresst. Bachata-Musik hat typischerweise ein moderates Tempo und einen sanften, melodischen Klang. Aufgrund seiner Einfachheit und der Fähigkeit, Emotionen durch Bewegung zu vermitteln, erfreut sich der Tanz auf der ganzen Welt großer Beliebtheit.</string>
+    <string name="zumba_title">Zumba ist ein lateinamerikanisch inspirierter Tanzfitnesskurs, der Elemente von Salsa, Merengue und anderen rhythmischen Stilen kombiniert. Der Kurs wird von einem Zumba-Lehrer geleitet, der Musik spielt und die Tänze vorführt, die dann von den Teilnehmern wiederholt werden. Zumba-Kurse sind wegen ihrer Energie, ihrer unterhaltsamen Atmosphäre und ihrer effektiven Art, Kalorien zu verbrennen, beliebt.</string>
+    <string name="hip_hop_title">Hip Hop Dance ist ein Street Dance-Stil, der in den 1970er Jahren in den USA entstand. Es zeichnet sich durch rasante Bewegungen, aggressives Styling und einzigartige Handgesten aus. Hip-Hop-Tänzer verwenden häufig Requisiten wie Skateboards, Breakdance und Graffiti-Kunst, um ihren Auftritt zu bereichern. Die Musik für Hip-Hop-Tanz hat normalerweise Schläge pro Minute (BPM) im Bereich von 90 bis 120.</string>
+    <string name="next_classes">Nächste Kurse</string>
+    <string name="next_classes_this_week">Nächste Kurse diese Woche</string>
+    <string name="hours">Std</string>
+    <string name="finish_the_dance">Beende den Tanz</string>
+    <string name="about">\"Um \"</string>
+</resources>
